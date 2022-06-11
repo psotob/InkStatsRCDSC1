@@ -1,3 +1,4 @@
+usethis::create_package("<ruta_a_carpeta/InkStatsRCDSC1")
 usethis::use_tutorial("Sesion1", "R para Ciencia de Datos en Salud 1: Fundamentos")
 usethis::use_dev_package("gradethis")
 
